@@ -29,6 +29,18 @@ List the ready features here:
 - There is a table displaying all channels with the sum of all customers
 
 ## Screenshots
+![Screen1](./Screenshots/Screenshot_1.png)
+![Screen2](./Screenshots/Screenshot_2.png)
+![Screen3](./Screenshots/Screenshot_3.png)
+![Screen4](./Screenshots/Screenshot_4.png)
+![Screen5](./Screenshots/Screenshot_5.png)
+![Screen6](./Screenshots/Screenshot_6.png)
+![Screen7](./Screenshots/Screenshot_7.png)
+![Screen8](./Screenshots/Screenshot_8.png)
+![Screen9](./Screenshots/Screenshot_9.png)
+![Screen10](./Screenshots/Screenshot_10.png)
+![Screen11](./Screenshots/Screenshot_11.png)
+![Screen12](./Screenshots/Screenshot_12.png)
 
 ## Setup
 #### Step 1 : Clone the project
